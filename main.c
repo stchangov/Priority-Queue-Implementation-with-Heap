@@ -23,7 +23,7 @@ int main(int argc, char* arv[]) {
     
     priority_queue_insert(hQueue, 50, 4);
     
-    priority_queue_insert(hQåueue, 500, 9);
+    priority_queue_insert(hQueue, 500, 9);
     
     priority_queue_insert(hQueue, 43, 8);
     // testing
